@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 65 65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path id="watch" class="cls-1" d="M12.4,27.2v16.3c0,3.4,2.7,6.1,6.1,6.1h28.1c3.4,0,6.1-2.7,6.1-6.1v-16.3H12.4ZM29.3,44.1c-2.7-1.6-2.5-10.6,0-12.5,2.5-1.9,11,3.1,11,6.3s-8.3,7.9-11,6.3ZM32.7,15.3h8.6l-8.6,8.6h-8.6l8.6-8.6ZM26.2,15.3h-8.3c-3,0-5.5,2.5-5.5,5.5v3.1h5.2l8.6-8.6ZM47.8,15.4l-8.5,8.5h13.3v-3.1c0-2.8-2.1-5.1-4.8-5.5Z"/>
+</svg>

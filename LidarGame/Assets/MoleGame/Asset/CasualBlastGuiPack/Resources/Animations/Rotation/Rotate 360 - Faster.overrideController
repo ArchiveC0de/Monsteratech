@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rotate 360 - Faster
+  m_Controller: {fileID: 9100000, guid: b389f29f06d1fa84c954b8656461a1e2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 72abdf1d07dd05a4e846f98d353183c3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fe2985b79f275514cbbed39fa1af78aa, type: 2}
